@@ -1,10 +1,28 @@
-# Tareas
+# Tareas del ramo Programación Avanzada (IIC2233)
+Fecha: Segundo semestre, 2022. 
 
-Cada tarea debe estar contenida en una carpeta llamada `TX` donde `X` es el número de la tarea. Una vez avanzado el semestre, el contenido de esta carpeta debería verse más o menos así:
+Este repositorio contiene las tareas realizadas en el marco del ramo **Programacion Avanzada** (IIC2233).
 
-* `T0`
-* `T1`
-* `T2`
-* `T3`
+## Tabla de Tareas
 
-Dentro de cada tarea **debes** entregar un archivo `README.md` (puedes usar [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)) dentro de la carpeta correspondiente con información útil para el ayudante que corrija tu código. Dentro de cada tarea hay un _template_ del `README.md` el cual no debes olvidar llenar.
+| Número | Nombre de la Tarea               | Enlace al Directorio      |
+|--------|----------------------------------|---------------------------|
+| 1      | [Tarea 1](./T1) | [T1](T1)      |
+| 2      | [Tarea 2](./T2) | [T2](T2)      |
+| 3      | [Tarea 3](./T3) | [T3](T3)      |
+| 3      | [Tarea 4](./T4) | [T4](T4)      |
+
+---
+
+# Assignments for the Course Advanced Programming (IIC2233)
+
+This repository contains the assignments completed as part of the Advanced Programming (IIC2233) course.
+
+## Assignment Table
+
+| Number | Assignment Name                 | Link to Directory         |
+|--------|----------------------------------|---------------------------|
+| 1      | [Assignment 1](./T1)    | [task1](T1)        |
+| 2      | [Assignment 2](./T2)    | [task2](T2)        |
+| 3      | [Assignment 3](./T3)    | [task3](T3)        |
+| 3      | [Assignment 4](./T4)    | [task4](T4)        |
