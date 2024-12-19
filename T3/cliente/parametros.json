@@ -1,0 +1,17 @@
+{
+    "HOST": "localhost",
+    "PORT": 47365,
+    "RUTA_VENTANA_INICIO": ["frontend", "assets", "ventana_inicio.ui"],
+    "RUTA_VENTANA_ESPERA": ["frontend", "assets", "ventana_espera.ui"],
+    "RUTA_VENTANA_JUEGO": ["frontend", "assets", "ventana_juego.ui"],
+    "RUTA_VENTANA_FINAL": ["frontend", "assets", "ventana_final.ui"],
+    "RUTA_VENTANA_ERROR_CONEXION": ["frontend", "assets", "ventana_error_conexion.ui"],
+    "RUTA_VENTANA_CHAT": ["frontend", "assets", "ventana_chat.ui"],
+    "CUENTA_REGRESIVA_INICIO": 10, 
+    "CUENTA_REGRESIVA_JUEGO": 20, 
+    "BARAJA_PANTALLA": 5,
+    "RUTA_CARTAS": ["frontend", "sprites", "cartas"],
+    "RUTA_FICHAS": ["frontend", "sprites", "elementos", "fichas"],
+    "RUTA_CARTA_BACK": ["frontend", "sprites", "cartas", "back.png"]
+    
+}
